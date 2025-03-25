@@ -1,5 +1,6 @@
 # Reviews-Analyst-using-GenAI
-## Objective
+## Objective 
+### Focus - Output Parser
 You are building an AI system to be able to look at customer reviews and do some complex analysis. For each review get ChatGPT to do the following:
 - Summarize the review: The summary should be at most 3 lines 
 - Highlight both the positives and negatives
